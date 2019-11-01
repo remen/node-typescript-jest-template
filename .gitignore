@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Typescript incremental build file
+tsconfig.tsbuildinfo
+
+# Output directory for typescript
+dist/

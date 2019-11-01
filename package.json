@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-jest-template",
+  "version": "1.0.0",
+  "description": "A template project for a nodejs+typescript+jest backend",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remen/node-typescript-jest-template.git"
+  },
+  "author": "petter.remen@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.21",
+    "@types/node": "^10.17.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
+  }
+}
