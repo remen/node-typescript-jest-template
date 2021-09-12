@@ -14,7 +14,7 @@
   "author": "petter.remen@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^26.0.24",
+    "@types/jest": "^27.0.1",
     "@types/node": "^16.4.7",
     "jest": "^27.1.1",
     "prettier": "^2.3.2",
